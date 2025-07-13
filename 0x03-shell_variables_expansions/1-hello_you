@@ -1,2 +1,5 @@
 #!/bin/bash
+ HEAD
 echo "hello $USERNAME"
+echo "hello $(whoami)"
+c2511d1 (Add 1-hello_you script)
