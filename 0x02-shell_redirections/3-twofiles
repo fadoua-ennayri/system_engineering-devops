@@ -1,3 +1,6 @@
 #!/bin/bash
+ HEAD
 cat /etc/passwd
 cat /etc/hosts
+cat /etc/passwd /etc/hosts
+ a869561 (Add 0x03-shell_variables_expansions folder and 0-alias script)
