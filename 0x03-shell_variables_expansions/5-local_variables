@@ -1,0 +1,9 @@
+#!/bin/bash
+# This script prints local variables, environment variables, and shell functions
+
+# Print local and environment variables
+declare -p
+
+# Print shell functions
+declare -f
+
