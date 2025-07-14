@@ -1,5 +1,7 @@
-#!/bin/bash
+ HEAD
  HEAD
 echo "hello $USERNAME"
 echo "hello $(whoami)"
 c2511d1 (Add 1-hello_you script)
+echo "hello $USERNAME"
+ 72c1cd7 (Your commit message here)
