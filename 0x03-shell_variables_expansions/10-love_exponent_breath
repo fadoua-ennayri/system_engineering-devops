@@ -1,0 +1,5 @@
+#!/bin/bash
+# Raise BREATH to the power of LOVE and print the result
+
+echo $(( BREATH ** LOVE ))
+
