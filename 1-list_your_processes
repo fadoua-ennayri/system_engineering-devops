@@ -1,0 +1,5 @@
+#!/bin/bash
+# Display all running processes in user-oriented format with hierarchy
+
+ps -eo user,pid,pcpu,pmem,vsz,rss,tty,stat,start,time,command --forest
+
