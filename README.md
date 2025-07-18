@@ -1,2 +1,5 @@
-# system_engineering-devops
-Shell basics scripts
+<<<<<<< HEAD
+Your local changes here
+=======
+Changes from remote branch here
+>>>>>>> commit-hash
