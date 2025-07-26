@@ -1,0 +1,4 @@
+ HEAD
+#!/bin/bash
+pwd
+ 4077956 (Fix script for current working directory task)
