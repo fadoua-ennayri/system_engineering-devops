@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d -exec chmod a+x {} \;
+#!/usr/bin/env bash
+chmod -R 755 *
