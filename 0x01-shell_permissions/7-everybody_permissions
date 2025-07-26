@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-chmod 701 my_dir
+chmod a+rwx hello
