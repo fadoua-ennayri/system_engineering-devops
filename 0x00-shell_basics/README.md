@@ -1,1 +1,1 @@
-# Shell Basics Project
+This directory contains basic shell scripts.
