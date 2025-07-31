@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "Hello, World"
+=======
+chmod +x 0-hello_world
+./0-hello_world
+>>>>>>> f02faad (Add script to print Hello, World)
 
