@@ -1,2 +1,0 @@
-#!/bin/bash
-cp /tmp/my_first_directory/my_first_file /tmp/my_first_directory/my_first_file_copy
